@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1673506894 source:c:\users\lenovo\onedrive\documents\library oroject\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<conio.h>
+	<math.h>
+	<windows.h>
+	<stdio.h>
+	<ctime>
+
